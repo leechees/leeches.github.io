@@ -1,7 +1,7 @@
  <!DOCTYPE html>
 <html>
 <head>
-<script src="" integrity="124">
+<script src="" interk="124">
 <head>
 <body>
 
